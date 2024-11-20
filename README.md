@@ -48,6 +48,7 @@ NSCLC-Survival-Analysis/
   - report/
     - final_report.pdf    # Final report
     - figures/            # Folder containing the report’s figures
+  - requirements.txt      # List of required Python packages
   - README.md
 
 ## Key Files in the Repository
