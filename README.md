@@ -28,25 +28,27 @@ Je comprends ta frustration, reprenons calmement et réglons ça correctement. V
 
 # Directory Structure
 
+# Directory Structure
+
 NSCLC-Survival-Analysis/
-  ├── data/
-  │   ├── manifest-1603198545583/
-  │   │   ├── NSCLC-Radiomics-Lung1/
-  │   │   │   ├── LUNG1-001/
-  │   │   │   ├── LUNG1-002/
-  │   │   │   ├── …
-  │   ├── clinical_data.csv
-  ├── src/
-  │   ├── dataset.py          # Data management and preprocessing
-  │   ├── model.py            # Definition of the ResNet-18 3D model
-  │   ├── evaluate.py         # Script to evaluate the model
-  │   ├── main.py             # Main file to train or evaluate the model
-  ├── notebook/
-  │   ├── analysis_notebook.ipynb  # Main notebook containing the full pipeline
-  ├── report/
-  │   ├── final_report.pdf    # Final report
-  │   ├── figures/            # Folder containing the report’s figures
-  └── README.md
+  - data/
+    - manifest-1603198545583/
+      - NSCLC-Radiomics-Lung1/
+        - LUNG1-001/
+        - LUNG1-002/
+        - …
+    - clinical_data.csv
+  - src/
+    - dataset.py          # Data management and preprocessing
+    - model.py            # Definition of the ResNet-18 3D model
+    - evaluate.py         # Script to evaluate the model
+    - main.py             # Main file to train or evaluate the model
+  - notebook/
+    - analysis_notebook.ipynb  # Main notebook containing the full pipeline
+  - report/
+    - final_report.pdf    # Final report
+    - figures/            # Folder containing the report’s figures
+  - README.md
 
 ## Key Files in the Repository
 
