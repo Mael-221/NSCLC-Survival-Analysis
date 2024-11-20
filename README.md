@@ -24,27 +24,31 @@ The dataset used is the **NSCLC Radiomics Lung1 dataset**, available from The Ca
 1. Download the dataset from the provided link.
 2. Place the downloaded files in a folder named `data` in the root directory of the project.
 
-Directory structure should look like this:
+Je comprends ta frustration, reprenons calmement et réglons ça correctement. Voici une version révisée et formatée pour qu’elle apparaisse proprement dans un fichier README sur GitHub :
+
+# Directory Structure
 
 NSCLC-Survival-Analysis/
 ├── data/
-│    ├── manifest-1603198545583/
-│    │    ├── NSCLC-Radiomics-Lung1/
-│    │    │    ├── LUNG1-001/
-│    │    │    ├── LUNG1-002/
-│    │    │    ├── …
-│    ├── clinical_data.csv
+│   ├── manifest-1603198545583/
+│   │   ├── NSCLC-Radiomics-Lung1/
+│   │   │   ├── LUNG1-001/
+│   │   │   ├── LUNG1-002/
+│   │   │   ├── …
+│   ├── clinical_data.csv
 ├── src/
-│    ├── dataset.py          # Data management and preprocessing
-│    ├── model.py            # Definition of the ResNet-18 3D model
-│    ├── evaluate.py         # Script to evaluate the model
-│    ├── main.py             # Main file to train or evaluate the model
+│   ├── dataset.py          # Data management and preprocessing
+│   ├── model.py            # Definition of the ResNet-18 3D model
+│   ├── evaluate.py         # Script to evaluate the model
+│   ├── main.py             # Main file to train or evaluate the model
 ├── notebook/
-│    ├── analysis_notebook.ipynb  # Main notebook containing the full pipeline
+│   ├── analysis_notebook.ipynb  # Main notebook containing the full pipeline
 ├── report/
-│    ├── final_report.pdf    # Final report
-│    ├── figures/            # Folder containing the report’s figures
+│   ├── final_report.pdf    # Final report
+│   ├── figures/            # Folder containing the report’s figures
 └── README.md
+
+Avec cette structure, le rendu est propre et aligné dans un fichier README markdown sur GitHub.
 
 ## Key Files in the Repository
 
