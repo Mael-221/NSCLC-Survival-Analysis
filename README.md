@@ -24,10 +24,6 @@ The dataset used is the **NSCLC Radiomics Lung1 dataset**, available from The Ca
 1. Download the dataset from the provided link.
 2. Place the downloaded files in a folder named `data` in the root directory of the project.
 
-Je comprends ta frustration, reprenons calmement et réglons ça correctement. Voici une version révisée et formatée pour qu’elle apparaisse proprement dans un fichier README sur GitHub :
-
-# Directory Structure
-
 # Directory Structure
 
 NSCLC-Survival-Analysis/
