@@ -17,7 +17,7 @@ The dataset used is the **NSCLC Radiomics Lung1 dataset**, available from The Ca
   - `1`: Deceased
   - `0`: Alive
 
-**Download Link**: [NSCLC Radiomics Dataset](https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics)
+**Download Link**: [NSCLC Radiomics Dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/)
 
 ### Instructions for Dataset Setup
 
